@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas Dharmik</h1>
 <h3 align="center">A passionate Tech Learner</h3>
 
-<p>I am currently a Third Year Student from Vishwakarma Institute of Technology, in Information Technology Field. I love working in the field of computer vision and deep learning, and I am constantly looking for what is new in this field, I prefer to focus on the medical field in terms of computer vision.
+<p>I am currently a Third Year Student from Vishwakarma Institute of Technology, in Information Technology Field. I love working in the field of computer vision and deep learning, and I am constantly looking for what is new in this field, I prefer to focus in education and social welfare in terms of computer vision.
   
 <h3 align="left">Connect with me:</p>
 
