@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tejas Dharmik</h1>
 <h3 align="center">A passionate Tech Learner</h3>
 
-<p>I graduated from Al-Baath University, Department of Software Engineering and Information Systems, I love working in the field of computer vision and deep learning, and I am constantly looking for what is new in this field, I prefer to focus on the medical field in terms of computer vision.
+<p>I am currently a Third Year Student from Vishwakarma Institute of Technology, in Information Technology Field. I love working in the field of computer vision and deep learning, and I am constantly looking for what is new in this field, I prefer to focus on the medical field in terms of computer vision.
+  
 <h3 align="left">Connect with me:</p>
 
 <p align="left">
