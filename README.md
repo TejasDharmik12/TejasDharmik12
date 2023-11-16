@@ -4,8 +4,6 @@
 <p>I am currently a Fourth Year BTECH Student from Vishwakarma Institute of Technology, in Information Technology Field. I love working in the field of computer vision,NLP and deep learning, and I am constantly looking for what is new in this field, I prefer to focus in education and social welfare in terms of computer vision.
 As a programmer I work in Java along with web technolgies like JSP, servlet,JDBC,spring, springboot, hibernate and JPA.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mankotia412vishal&label=Profile%20views&color=0e75b6&style=flat" alt="mankotia412vishal" /></p>
-
 
 <h3 align="left">Connect with me:</p>
 
