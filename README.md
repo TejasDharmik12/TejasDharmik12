@@ -4,7 +4,7 @@
 <p>I am currently a Fourth Year BTECH Student from Vishwakarma Institute of Technology, in Information Technology Field. I love working in the field of computer vision,NLP and deep learning, and I am constantly looking for what is new in this field, I prefer to focus in education and social welfare in terms of computer vision.
 As a programmer I work in Java along with web technolgies like JSP, servlet,JDBC,spring, springboot, hibernate and JPA.
 
-
+<img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img  src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" />
 <h3 align="left">Connect with me:</p>
 
 <p align="left">
