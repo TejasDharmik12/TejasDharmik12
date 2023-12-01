@@ -11,7 +11,7 @@ As a programmer I work in Java along with web technolgies like JSP, servlet,JDBC
 <p align="left">
 <a href="https://www.linkedin.com/in/tejas-dharmik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejas dharmik" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tejas_dharmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tejas_dharmik" height="30" width="40" /></a>
-
+<a href="https://codeforces.com/profile/tejasdharmik12" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fipreda%2Fcodeforces-how-to-use-typescript-javascript-like-a-pro-1cjo&psig=AOvVaw12hTn5CQuUMDri7uoyLs2_&ust=1701496032217000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCMDo6ufE7YIDFQAAAAAdAAAAABAE" alt="Code" height="30" width="40" /></a>
 
 
 </p>
