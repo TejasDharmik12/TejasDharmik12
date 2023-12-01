@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tejas Dharmik</h1>
+![image](https://github.com/TejasDharmik12/TejasDharmik12/assets/84400584/d8431006-7dfd-4e0c-84ed-819f6243c90e)<h1 align="center">Hi 👋, I'm Tejas Dharmik</h1>
 <h3 align="center">A passionate Tech Learner</h3>
 
 <p>I am currently a Fourth Year BTECH Student from Vishwakarma Institute of Technology, in Information Technology Field. I love working in the field of computer vision,NLP and deep learning, and I am constantly looking for what is new in this field, I prefer to focus in education and social welfare in terms of computer vision.
@@ -11,7 +11,8 @@ As a programmer I work in Java along with web technolgies like JSP, servlet,JDBC
 <p align="left">
 <a href="https://www.linkedin.com/in/tejas-dharmik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejas dharmik" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tejas_dharmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tejas_dharmik" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/tejasdharmik12" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fipreda%2Fcodeforces-how-to-use-typescript-javascript-like-a-pro-1cjo&psig=AOvVaw12hTn5CQuUMDri7uoyLs2_&ust=1701496032217000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCMDo6ufE7YIDFQAAAAAdAAAAABAE" alt="Code" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/tejasdharmik12" target="blank"><img align="center" src="![image](https://github.com/TejasDharmik12/TejasDharmik12/assets/84400584/7e80ca79-d15a-4740-93ae-a20821c2ccef)
+" alt="Code" height="30" width="40" /></a>
 
 
 </p>
