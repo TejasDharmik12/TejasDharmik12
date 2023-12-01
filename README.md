@@ -1,4 +1,4 @@
-![image](https://github.com/TejasDharmik12/TejasDharmik12/assets/84400584/d8431006-7dfd-4e0c-84ed-819f6243c90e)<h1 align="center">Hi 👋, I'm Tejas Dharmik</h1>
+<h1 align="center">Hi 👋, I'm Tejas Dharmik</h1>
 <h3 align="center">A passionate Tech Learner</h3>
 
 <p>I am currently a Fourth Year BTECH Student from Vishwakarma Institute of Technology, in Information Technology Field. I love working in the field of computer vision,NLP and deep learning, and I am constantly looking for what is new in this field, I prefer to focus in education and social welfare in terms of computer vision.
