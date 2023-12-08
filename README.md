@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tejas Dharmik</h1>
 <h3 align="center">A passionate Tech Learner</h3>
 
-<p>I am currently a Fourth Year BTECH Student from Vishwakarma Institute of Technology, in Information Technology Field. I love working in the field of computer vision,NLP and deep learning, and I am constantly looking for what is new in this field, I prefer to focus in education and social welfare in terms of computer vision.
+<p>
+:sunglasses: I am currently a Fourth Year BTECH Student from Vishwakarma Institute of Technology, in Information Technology Field. 
+:star_struck: I love working in the field of computer vision,NLP and deep learning, and I am constantly looking for what is new in this field, I prefer to focus in education and social welfare in terms of computer vision.
 As a programmer I work in Java along with web technolgies like JSP, servlet,JDBC,spring, springboot, hibernate and JPA.
   <br>
   
 <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 <h3 align="left">Connect with me:</p>
-:grinning:
+
 <p align="left">
 <a href="https://www.linkedin.com/in/tejas-dharmik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejas dharmik" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tejas_dharmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tejas_dharmik" height="30" width="40" /></a>
