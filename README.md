@@ -7,7 +7,7 @@ As a programmer I work in Java along with web technolgies like JSP, servlet,JDBC
   
 <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 <h3 align="left">Connect with me:</p>
-(#smileys--emotion)
+(#smileys--emotion) | :grinning: | `:grinning:` | :smiley: | `:smiley:` | [top](#table-of-contents) |
 <p align="left">
 <a href="https://www.linkedin.com/in/tejas-dharmik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejas dharmik" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tejas_dharmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tejas_dharmik" height="30" width="40" /></a>
