@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Tech Learner</h3>
 
 <p>
-:sunglasses: I am currently a Fourth Year BTECH Student from Vishwakarma Institute of Technology, in Information Technology Field. 
+:sunglasses: I am currently a Fourth Year BTECH Student from Vishwakarma Institute of Technology, in Information Technology Field. <br>
 :star_struck: I love working in the field of computer vision,NLP and deep learning, and I am constantly looking for what is new in this field, I prefer to focus in education and social welfare in terms of computer vision.
 As a programmer I work in Java along with web technolgies like JSP, servlet,JDBC,spring, springboot, hibernate and JPA.
   <br>
