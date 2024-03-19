@@ -5,6 +5,7 @@
 :sunglasses: I am currently a Fourth Year BTECH Student from Vishwakarma Institute of Technology, in Information Technology Field. <br>
 :star_struck: I love working in the field of computer vision,NLP and deep learning, and I am constantly looking for what is new in this field. <br>
 :relaxed:I prefer to focus in education and social welfare in terms of computer vision.
+Currently Exploring Javascript frameworks like Reactjs
 As a programmer I work in Java along with web technolgies like JSP, servlet,JDBC,spring, springboot, hibernate and JPA.
   <br>
   
