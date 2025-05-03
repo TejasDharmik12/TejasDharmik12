@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Tech Learner</h3>
 
 <p>
-:sunglasses: I am a Information Technology Engineer passed out from from Vishwakarma Institute of Technology,Pune. <br>
+:sunglasses: I am a Data Engineer in Principal Global Services. IT Engineer passed out from Vishwakarma Institute of Technology,Pune. <br>
 :star_struck: I love working in the field of computer vision,NLP and deep learning, and I am constantly looking for what is new in this field. <br>
 :relaxed:I prefer to focus in education and social welfare in terms of computer vision.
 Currently Exploring Javascript frameworks like Reactjs
